@@ -1,5 +1,3 @@
-<img width="466" height="909" alt="Image" src="https://github.com/user-attachments/assets/cda16c77-de85-4cf8-b481-a4c68c155116" />
-
 # 건강이 (Health-i) — 고령층을 위한 병원·복지 서비스 자동 추천 챗봇
 
 > **고령층이 자연어로 증상과 지역을 입력하면, 공공데이터를 기반으로 가까운 병원과 추천 진료과를 알려주는 모바일 챗봇 애플리케이션**
